@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "743146805256",
+    "project_id": "omomaclinic-13bc1",
+    "storage_bucket": "omomaclinic-13bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743146805256:android:4926662f2000daa4f9d9bd",
+        "android_client_info": {
+          "package_name": "com.agenna.agenna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743146805256-fgqjq4v1h16jp1gmum82bfbhh1b2eais.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPwTHgud_7bvABmAkzCqmXxL1r_80qiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743146805256-fgqjq4v1h16jp1gmum82bfbhh1b2eais.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743146805256:android:ebdba1a9d28609f3f9d9bd",
+        "android_client_info": {
+          "package_name": "com.example.agenna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743146805256-fgqjq4v1h16jp1gmum82bfbhh1b2eais.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPwTHgud_7bvABmAkzCqmXxL1r_80qiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743146805256-fgqjq4v1h16jp1gmum82bfbhh1b2eais.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

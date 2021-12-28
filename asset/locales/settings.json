@@ -1,0 +1,18 @@
+{
+      "app_name": "Agenna",
+      "default_theme": "light",
+      "main_color": "#2e3384",
+      "main_dark_color": "#f00beb",
+      "second_color": "#eb2dce",
+      "second_dark_color": "#ffffff",
+      "accent_color": "#2e3384",
+      "accent_dark_color": "#2e3384",
+      "scaffold_dark_color": "#2c2c2c",
+      "scaffold_color": "#2e3384",
+      "mobile_language": "ar_EG",
+      "app_version": "1.0.0",
+      "enable_version": "1"
+     
+
+  
+  }
