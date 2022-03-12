@@ -26,6 +26,7 @@ Future<void> _firebaseMessagingBackgroundHandler(message) async {
    Get.toNamed(Routes.LOGIN);
 
 }
+/* flutter omoma tech project*/
 final box=GetStorage();
 
 initServices() async {
